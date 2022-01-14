@@ -1,0 +1,15 @@
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\ConsoleApplication1.Tests.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\ConsoleApplication1.Tests.pdb
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\ConsoleApplication.exe
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\ConsoleApplication.pdb
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\zh-Hant\Microsoft.Pex.Framework.resources.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\bin\Debug\zh-Hant\Microsoft.ExtendedReflection.resources.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\obj\Debug\ConsoleApplication1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\obj\Debug\ConsoleApplication1.Tests.dll
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication1.Tests\obj\Debug\ConsoleApplication1.Tests.pdb

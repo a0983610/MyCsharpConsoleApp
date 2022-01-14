@@ -1,0 +1,12 @@
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\MyConsoleApp.exe
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\MyConsoleApp.pdb
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\MyConsoleApp.exe.config
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\bin\Release\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.csprojAssemblyReference.cache
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.csproj.CopyComplete
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.pdb

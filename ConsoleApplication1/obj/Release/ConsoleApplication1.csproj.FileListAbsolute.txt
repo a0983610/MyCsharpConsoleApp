@@ -1,0 +1,15 @@
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\bin\Release\MyConsoleApp.exe.config
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\bin\Release\MyConsoleApp.exe
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\bin\Release\MyConsoleApp.pdb
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form1.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form2.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form3.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form4.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form5.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Form6.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.Properties.Resources.resources
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.GenerateResource.cache
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\MyConsoleApp.exe
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\MyConsoleApp.pdb
+C:\JianjheFolder\MyProgram\我的程式\驊宏時程式未整理\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.AssemblyReference.cache

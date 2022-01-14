@@ -1,0 +1,7 @@
+C:\Users\jianjhehong\Desktop\截圖
+=test123
+=size:30
+=w:300
+=h:100
+=DN:testnnn
+0

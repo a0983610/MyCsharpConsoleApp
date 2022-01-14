@@ -1,0 +1,12 @@
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\jianjhehong\Desktop\TTT\test\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\jianjhehong\Desktop\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

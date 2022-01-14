@@ -1,0 +1,158 @@
+﻿                
+				//必勝賭博法?
+				//Console.Write("目標金額:");
+                //int tageto = Convert.ToInt32(Console.ReadLine());
+                //Random rd = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
+                //List<int> iList = new List<int>();
+                //for (int i = 1; tageto > 0; i++)
+                //{
+                //    iList.Add(i);
+                //    tageto -= i;
+                //}
+
+                //int kane = 0;
+                //int c = 1;
+
+                //int minkane = 0;
+
+                ////開始賭
+                //while (iList.Count > 0)
+                //{
+                //    if (kane < minkane) minkane = kane;
+                //    //如果剩下1個
+                //    if (iList.Count == 1)
+                //    {
+                //        int i = iList.First();
+                //        iList.Clear();
+
+                //        iList.Add(i / 2);
+                //        iList.Add(i - (i / 2));
+                //    }
+
+                //    int fi = iList.First();
+                //    int li = iList.Last();
+                //    Console.WriteLine("\r\n賭:" + (fi + li));
+                //    if (kazino(rd))
+                //    {
+                //        //贏
+                //        iList.RemoveAt(0);
+                //        iList.RemoveAt(iList.Count - 1);
+                //        kane += (fi + li);
+                //    }
+                //    else
+                //    {
+                //        //輸
+                //        iList.Add(fi + li);
+                //        kane -= (fi + li);
+                //    }
+
+                //    Console.WriteLine("$增減:" + kane);
+                    
+                //    Console.Write("iList:");
+                //    foreach (int i in iList)
+                //    {
+                //        Console.Write(i + " ");
+                //    }
+
+                //    Console.WriteLine("\r\n已賭次數:" + c++);
+                //}
+
+                //Console.WriteLine("\r\n\r\n\r\n最少的時候" + minkane);
+
+
+                //Console.WriteLine("end");
+                //Console.ReadKey();
+				
+				        //static bool kazino(Random rd)
+        //{
+        //    int r = rd.Next(0, 2);
+        //    Console.WriteLine(r == 1 ? "贏" : "輸");
+        //    return r == 1 ? true : false;
+        //}
+				
+				
+				//麥穗問題
+
+				bool cons = false;
+
+                Random r = new Random(DateTime.Now.Millisecond);
+
+                for (int zz = 0; zz < 100; zz++)
+                {
+
+                    int z = 100;
+                    int[] t = new int[z];
+
+                    for (int i = 0; i < z; i++)
+                    {
+                        t[i] = r.Next(0, z);
+                    }
+                    int min = 0;
+                    int max = 0;
+                    bool f = false;
+                    int get = 0;
+                    for (int i = 0; i < z; i++)
+                    {
+                        if ((decimal)i / (decimal)z < 0.3678m)
+                        {
+                            //取樣
+                            if (t[i] > max)
+                            {
+                                max = t[i];
+                            }
+                            if (t[i] < min)
+                            {
+                                min = t[i];
+                            }
+                        }
+                        else
+                        {
+                            if (t[i] > max)
+                            {
+                                if (cons) Console.WriteLine(string.Format("在{0}時 選了{1}", i, t[i]));
+                                get = t[i];
+                                break;
+                            }
+
+                            if ((decimal)i / (decimal)z > 0.70m && f == false)
+                            {
+                                if (cons) Console.WriteLine(string.Format("標準{0}~{1}下修", min, max));
+                                max = max - (max - min) * 1 / 5;
+                                if (cons) Console.WriteLine(string.Format("新標準{0}~{1}", min, max));
+                                f = true;
+                            }
+
+                            //最後一個必須選
+                            if (i == z - 1)
+                            {
+                                if (cons) Console.WriteLine(string.Format("最後選了{0}", t[i]));
+                                get = t[i];
+                            }
+                        }
+                    }
+                    //Console.WriteLine("選取值:" + get);
+                    if (cons) Console.WriteLine("最大值:" + t.Max());
+                    decimal p = (decimal)get / (decimal)t.Max() * 100;
+                    Console.WriteLine(string.Format("{0:0.0000}", p) + "%");
+                    if (cons) Console.WriteLine();
+                }
+
+
+                Console.ReadKey();
+                Console.WriteLine("結束");
+
+				//LINQ 分類後編號
+                string[] a = { "a", "b", "c", "d", "e", "a", "a" };
+
+                string[] b = { "1", "2", "3", "4", "5", "6" };
+
+                var c = a.Zip(b, (x, y) => new { a = x, b = y }).ToList();
+
+
+                var d = a.GroupBy(x => x).Select(x => new { data = x, count = x.Count() }).ToList();
+
+                var e = d.SelectMany(x => x.data.Select(xx => xx).Zip(Enumerable.Range(1, x.count), (xx, yy) => new { data = xx, n = yy })).ToList();
+
+                var f = a.Select((x, y) => new { x = x, c = y++ }).ToList();
+                Console.WriteLine("結束");
+
